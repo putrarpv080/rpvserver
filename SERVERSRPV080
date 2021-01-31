@@ -1,4 +1,7 @@
-<?xml versio='1.0' standalone='yes'>
-<servers>
-<servers name="01. SERVER UMUM puta RPV" ca="0" continent_code="ID" country="01" country_code="ID" ip="101.225.4.194" port="64738" region="rpv  regional" url="http//radioputra.romzi.online" token=""/>
+
+<? xml version = ' 1.0 ' standalone = ' yes ' ?>
+< server >
+< Server  nama = " 1.Ruang Nasional "  ca = " 0 "  continent_code = " ID "  negara = " No.1: Zona Nasional "  COUNTRY_CODE = " ID "  ip = " 164.132.3.62 "  pelabuhan = " 44.483 "  wilayah = " Rakomwar Nasional "  url = " http://mb.puma-network.net " token = " "/>
+< Server  nama = " 2.Ruang RWTN "  ca = " 0 "  continent_code = " ID "  negara = " No.2: Zona Bebas "  COUNTRY_CODE = " ID "  ip = " pelabuhan 144.76.73.12 = " 42.464 " wilayah = " RWTN " url = " http://mumble-de.cleanvoice.com " token = " " />
+<nama server = " 3.Ruang RWTN 01 " ca = " 0 " continental_code = " ID " country = " No.3: Zona Asik " country_code = " ID " ip = " 144.76.73.12 " port = " 42466 " region = " RWTN 01 " url = " http://mumble-de.cleanvoice.com " token = " " />
 </servers>
